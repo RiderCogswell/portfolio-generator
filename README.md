@@ -1,7 +1,7 @@
 # Portfolio Generator!
 
 ## Description 
-This CLI application prompts a Software Developer to enter personal GitHub information and watch a portfolio be created!
+This CLI application, made with Node.js, prompts a Developer to enter personal GitHub information and watch a portfolio be created!
 
 ## Download source code to check it out!
  1. Download all of the code files
